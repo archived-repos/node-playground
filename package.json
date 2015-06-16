@@ -1,0 +1,14 @@
+{
+  "name": "env",
+  "version": "1.0.0",
+  "description": "unique environment playground",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesús Germade <jesus@germade.es>",
+  "license": "MIT",
+  "dependencies": {
+    "jengine-events": "^0.1.3"
+  }
+}
